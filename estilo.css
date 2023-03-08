@@ -10,7 +10,7 @@ html{
 /* Sección Inicio */
 .inicio{
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3));
-   background-image: url(../cvticmas/black.jpg) ;
+   background-image: url(black.jpg) ;
    background-repeat: no-repeat;
    background-position: center center;
    background-size: cover;
